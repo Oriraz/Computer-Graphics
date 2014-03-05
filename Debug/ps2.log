@@ -1,0 +1,17 @@
+﻿Build started 3/5/2014 11:07:28 AM.
+     1>Project "C:\Users\Ori\Documents\Visual Studio 2010\Projects\ps2\ps2\ps2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ps2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ps2.vcxproj -> C:\Users\Ori\Documents\Visual Studio 2010\Projects\ps2\Debug\ps2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ps2.unsuccessfulbuild".
+         Touching "Debug\ps2.lastbuildstate".
+     1>Done Building Project "C:\Users\Ori\Documents\Visual Studio 2010\Projects\ps2\ps2\ps2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
